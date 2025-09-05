@@ -18,7 +18,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "deploy": "npx @opennextjs/cloudflare build"
   },
   "dependencies": {
     "@opennextjs/cloudflare": "^1.7.1",
