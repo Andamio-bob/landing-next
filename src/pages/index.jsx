@@ -45,7 +45,7 @@ const Index = () => {
                                 <div className="flex items-center gap-4">
                                     Financiamiento <CurrencySlide />
                                 </div>
-                                <span className='sm:pl-[2rem] lg:pl-[3rem] xl:pl-[5rem]'>con Andamio</span>
+                                <span className='sm:pl-[2rem] lg:pl-[3rem] xl:pl-[5rem]'>con Andamio.</span>
                             </h1>
 
                             <p className='text__18 text-Mneutral700 mt-[2rem] lg:mt-[4rem] mb-8'>Andamio es la fintech líder que ofrece <br className='hidden sm:block lg:hidden' /> servicios financieros <br className='hidden lg:block xl:hidden' /> especializados <br className='hidden xl:block' /> para constructores. Con nuestra <br className='hidden sm:block lg:hidden' /> plataforma digital, puedes gestionar <br className='hidden lg:block xl:hidden' /> fácilmente tus <br className='xl:block hidden sm:block lg:hidden' /> proyectos de construcción.</p>
